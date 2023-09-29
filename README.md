@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @blmmr
 - 🌱 I’m currently learning python and Django
-- 📫 How to reach me: arv.barberare.0u@icloud.com
+- 📫 How to reach me: tuinmui @ discord
