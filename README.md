@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @blmmr
-- 🌱 I’m currently learning python and Django
-- 📫 How to reach me: tuinmui @ discord
+- 📫 How to reach me: tuinmui on discord
