@@ -1,2 +1,4 @@
-- 👋 Hi, I’m @blmmr
-- 📫 How to reach me: tuinmui on discord
+- 👋 hi, I’m sasha
+- 📫 reach out: tuinmui on discord
+- 💻 currently learning bash scripting
+- 🇬🇧 english / 🇸🇪 svenska / 🇷🇺русский
