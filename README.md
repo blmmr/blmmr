@@ -1,4 +1,4 @@
 - 👋 hi, I’m sasha
 - 📫 reach out: tuinmui on discord
-- 💻 currently learning gcloud ci/cd
+- 💻 currently trying to set up arch linux [11.09.24]
 - 🇬🇧 english / 🇸🇪 svenska / 🇷🇺русский
