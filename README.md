@@ -1,4 +1,4 @@
-- 👋 hi, I’m sasha
+- 👋 hi, I’m alesandra / sasha
 - 📫 reach out: tuinmui on discord
-- 💻 currently trying to set up arch linux [11.09.24]
+- 💻 currently learning terraform + cloud functions [2.10.24]
 - 🇬🇧 english / 🇸🇪 svenska / 🇷🇺русский
