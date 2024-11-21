@@ -1,4 +1,4 @@
 - 👋 hi, I’m alesandra / sasha
 - 📫 reach out: tuinmui on discord
-- 💻 currently learning terraform + cloud functions [2.10.24]
+- 💻 currently learning terraform + jenkins [21 nov 2024]
 - 🇬🇧 english / 🇸🇪 svenska / 🇷🇺русский
