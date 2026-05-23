@@ -1,4 +1,4 @@
-<img src="assets/laptop.jpeg" width="200" align="center" />
+<img src="assets/laptop.png" width="200" align="center" />
 
 <details>
   <summary align="center"><samp>developer/devops, open source enthusiast</samp></summary>
