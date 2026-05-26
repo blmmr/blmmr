@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/laptop.png" width="200" /></p>
+<p align="center"><img src="assets/cyberpunk.png"/></p>
 
 <details>
   <summary align="center"><samp>developer/devops, open source enthusiast</samp></summary>
